@@ -1,0 +1,15 @@
+{
+    "name": "api-site-lifiled",
+    "version": "1.0.0",
+    "description": "API SITE LIFILED",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": ["éclairage, "],
+    "author": "TEAM DOUGOU | Formation SAYNA",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}
